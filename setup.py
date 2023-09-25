@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 # Setup the package
 setup(
-    name='eda-quest',
+    name='edaquest',
     version='0.0.1',
     description='Exploratory Data Analysis Package - Swiss Knife for Data Science',
     author='Bhanu Thakur',
